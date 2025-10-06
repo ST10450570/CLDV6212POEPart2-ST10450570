@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\functions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\queuestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\abcretails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:abcretails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\filesharefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\tablestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\abcretails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F279EEED-E284-429E-B23F-4FC544DEFD9F}|ABCRetails.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86145601-7057-44B4-8CA0-B70FD9B80E24}|..\\Functions\\Functions.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212poepart2-st10450570\\functions\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ABCRetails",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\ABCRetails.csproj",
+              "RelativeDocumentMoniker": "ABCRetails.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\ABCRetails.csproj",
+              "RelativeToolTip": "ABCRetails.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T10:54:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functions",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\Functions.csproj",
+              "RelativeDocumentMoniker": "..\\Functions\\Functions.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\Functions.csproj",
+              "RelativeToolTip": "..\\Functions\\Functions.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T10:49:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\FileUploadModel.cs",
+              "RelativeDocumentMoniker": "Models\\FileUploadModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\FileUploadModel.cs",
+              "RelativeToolTip": "Models\\FileUploadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:43.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:42.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\Program.cs",
+              "RelativeToolTip": "..\\Functions\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:39:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\TableStorageFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\TableStorageFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\TableStorageFunction.cs",
+              "RelativeToolTip": "..\\Functions\\TableStorageFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:39:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\QueueStorageFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\QueueStorageFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\QueueStorageFunction.cs",
+              "RelativeToolTip": "..\\Functions\\QueueStorageFunction.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:39:55.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlobStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\BlobStorageFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\BlobStorageFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\BlobStorageFunction.cs",
+              "RelativeToolTip": "..\\Functions\\BlobStorageFunction.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileShareFunction.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\FileShareFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\FileShareFunction.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\FileShareFunction.cs",
+              "RelativeToolTip": "..\\Functions\\FileShareFunction.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\local.settings.json",
+              "RelativeToolTip": "..\\Functions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T10:39:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:25.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:41.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:37.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:36.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:40:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\ABCRetails\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T10:40:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\host.json",
+              "RelativeDocumentMoniker": "..\\Functions\\host.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212POEPart2-ST10450570\\Functions\\host.json",
+              "RelativeToolTip": "..\\Functions\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T10:39:59.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
